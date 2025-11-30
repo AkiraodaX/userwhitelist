@@ -11,4 +11,3 @@ s98kz
 Gen_trix
 vb_altt
 Game_Management1
-LumiereJEN
